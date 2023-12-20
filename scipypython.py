@@ -1,0 +1,25 @@
+from scipy import constants
+import scipy
+
+print(constants.liter)
+print("Scipy version :", scipy.__version__)
+
+print("Yotta :", constants.yotta)
+print("Zetta :", constants.zetta)
+print("Exa :", constants.exa)
+print("peta :", constants.peta)
+print("Tera : ", constants.tera)
+print("Giga :", constants.giga)
+print("Mega :", constants.mega)
+print("Kilo :", constants.kilo)
+print("Hecto :", constants.hecto)
+print("Deka :", constants.deka)
+print("centi :", constants.centi)
+print("Deci :", constants.deci)
+print("Mili :", constants.milli)
+print("Micro :", constants.micro)
+print("Nano :", constants.nano)
+print("Pico :", constants.pico)
+print("Femto :", constants.femto)
+print("Atto :", constants.atto)
+print("Zepto: ", constants.zepto)
